@@ -5,7 +5,7 @@ import Web3 from "web3";
 // Required to convert message to Hex
 const ethUtil = require("ethereumjs-util");
 
-const fm = new Fortmatic("pk_live_2D2681FCD1C1F5B4");
+const fm = new Fortmatic("FOTMATIC_API_KEY_HERE");
 (window as any).web3 = new Web3(fm.getProvider());
 
 export const login = () => {
