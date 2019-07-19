@@ -7,10 +7,14 @@
     "@types/node": "12.6.8",
     "@types/react": "16.8.23",
     "@types/react-dom": "16.8.4",
+    "fortmatic": "^0.8.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "typescript": "3.5.3"
+    "styled-components": "^4.3.2",
+    "typescript": "3.5.3",
+    "uuid": "^3.3.2",
+    "web3": "^1.0.0-beta.55"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,5 +36,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^4.1.18",
+    "@types/uuid": "^3.4.5",
+    "@types/web3": "^1.0.19"
   }
 }
