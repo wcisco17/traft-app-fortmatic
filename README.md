@@ -7,7 +7,7 @@
 React, Typescript, and Fortmatic's API, for authentication and transacting with the frontend.
 </p>
 
-## This project utilizes the Fortmatic's api and is a way to interact with the both frontend and backend.
+## The project utilizes the Fortmatic's api and is a way to interact with the both frontend and backend.
 
 The purpose of this project is to create a simple UI that will interact with Fortmatic's capabilities an example of this will be, authentication with phone number, transfering crypto currency, approving and lastly any other functions that you will use to transact with your contract.
 
