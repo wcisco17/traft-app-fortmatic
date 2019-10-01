@@ -1,6 +1,6 @@
 
-<h1 align="center" >
-  Traft App
+<h1 align="center">
+  Traft Application
  </h1>
 
  <p align="center">
@@ -23,7 +23,7 @@ The purpose of this project is to create a simple UI that will interact with For
 
 ## Before using login in you will need to use your own api key.
 
-Go ahead and head over to https://fortmatic.com/ and sign up to get your key!
+Go ahead and head over to https://fortmatic.com/ and sign up to get your key
 
 ## Progress so far...
 
